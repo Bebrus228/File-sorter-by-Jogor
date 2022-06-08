@@ -1,0 +1,4 @@
+0. Install python 3.9 or above 
+1. Move the files from the "codes" folder to the folder whose files you want to sort
+2. Run main.py file 
+3. If you are reading this while main.py is running, please close this documentation.
