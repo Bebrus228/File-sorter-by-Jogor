@@ -1,0 +1,6 @@
+0. Install python 3.9 or above 
+2. Run main.py file
+
+Use case:
+if I want to sort the files in the "codes" folder, which is on the D drive in the "python" folder, then I write like this:
+D:\python\codes
