@@ -1,0 +1,8 @@
+Run file main.exe in folder 'Compiled app'
+
+
+
+
+Use case:
+if I want to sort the files in the "codes" folder, which is on the D drive in the "python" folder, then I write like this:
+D:\python\codes
